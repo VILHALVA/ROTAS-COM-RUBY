@@ -1,5 +1,5 @@
 # ROTAS COM RUBY 
-👨‍💻APLICAÇÃO DE ROTAS APENAS COM A LIGUAGEM, SEM FRAMEWORKS!
+👨‍💻APLICAÇÃO DE ROTAS APENAS COM A LINGUAGEM, SEM FRAMEWORKS!
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
